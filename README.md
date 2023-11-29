@@ -9,7 +9,7 @@ We'll be delving into this project by exploring the top ten videos of all time. 
 ![](Ten_best_selling_games.png)
 # Missing review scores
 The query result shows that 31 games were not reviewed which is less than ten percent of the games. This is a small percentage of our dataset. Exploration of the data can continue but it's important to keep this figure in mind. 
-![](Missing_review_Scores.jpg)
+![](Missing_review_Scores.png)
 # Years that video game critics love
 The query result year ranges from 1982 to 2020, with 1982 being the year with the highest average critic score of "9.00" and 1999 with a score of "8.93".
 ![](Years_that_video_game_critic_love.png)
